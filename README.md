@@ -3,7 +3,7 @@ Develop an attendance tracking system, using Python for automation, that records
 Implement an absentee identification mechanism within the system, then automatically email the list of absentees to the head of the department.
 
 # Dependencies
-Install Keras and dependencies
+Install Keras and dependencies<br/>
 Install tensorflow
 
 # Algorithms
